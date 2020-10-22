@@ -1,7 +1,7 @@
 import React from "react";
 
 const MyComponent = (props) => {
-  console.log(props);
+  // console.log(props);
   return (
     <React.Fragment>
       <div> my react app </div> 
